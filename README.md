@@ -1,6 +1,9 @@
 # resume
-Resume
+Resume (wip)
 
+# Hi! I'm Snoolie.
+
+I'm an iOS Programmer from Indiana, United States, who's had experience with UIKit / Objective-C.
 
 # Badger
 
@@ -20,4 +23,4 @@ HSF8 is a CHIP-8 emulator made in Python.
 
 # Vulns Found
 
-I've disclosed 3 vulns with Apple's Shortcuts app. CVE-2021-30763 is an internet permission vuln, as well as a vuln for arbitrary write via Extract Archive, and, most impactful, a vuln allowing hidden actions.
+I've disclosed 3 vulns with Apple's Shortcuts app. CVE-2021-30763 is an internet permission vuln, as well as a vuln for arbitrary write via Extract Archive (link), and, most impactful, a vuln allowing hidden actions (link).
