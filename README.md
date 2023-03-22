@@ -7,7 +7,7 @@ I'm an iOS Programmer from Indiana, United States, who's had about a year of exp
 
 # Badger
 
-Badger is an iOS jailbreak tweak I've released on Havoc for $0.99, coded 100% on Objective-C.
+Badger is an iOS jailbreak tweak I've released on Havoc for $0.99, coded 100% on Objective-C. It also comes with a sweet app for customizing preferences, also coded in 100% Objective-C / UIKit.
 
 # Pastcuts
 
@@ -23,5 +23,5 @@ HSF8 is a CHIP-8 emulator made in Python.
 
 # Vulns Found
 
-I've disclosed 3 vulns with Apple's Shortcuts app. CVE-2021-30763 is an internet permission vuln, as well as a vuln for arbitrary write via Extract Archive (link), and, most impactful, a vuln allowing hidden actions (link).
+I've disclosed 3 vulns with Apple's Shortcuts app. CVE-2021-30763 is an internet permission vuln, as well as a vuln for arbitrary write via Extract Archive [https://0xilis.github.io/blog/shortcuts/ExtractArchiveArbitraryWrite](https://0xilis.github.io/blog/shortcuts/ExtractArchiveArbitraryWrite), and, most impactful, a vuln allowing hidden actions [https://twitter.com/i/status/1503493745085399040](https://twitter.com/i/status/1503493745085399040).
 
